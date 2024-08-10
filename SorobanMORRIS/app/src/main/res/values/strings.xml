@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soroban MORRIS</string>
+    <string name="txtMainActivity">Home</string>
+    <string name="HomeHint">NickName</string>
+    <string name="HomeButton">START</string>
+    <string name="Answer">Answer</string>
+    <string name="VALIDATE">VALIDATE</string>
+    <string name="equal">=</string>
+    <string name="maxScore">MAX Score</string>
+    <string name="playerName">Player Name</string>
+    <string name="oldScore">OLD Score</string>
+    <string name="newScore">NEW Score</string>
+</resources>
